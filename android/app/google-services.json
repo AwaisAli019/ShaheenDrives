@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "491744305370",
+    "project_id": "shaheendrives",
+    "storage_bucket": "shaheendrives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491744305370:android:28c5272e57ed31818485e3",
+        "android_client_info": {
+          "package_name": "com.shaheen.drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjgtA8EM1Id1JtVcgMMPN3BgyGWERekbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491744305370:android:152e25e5f62f36058485e3",
+        "android_client_info": {
+          "package_name": "com.shaheendrives.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjgtA8EM1Id1JtVcgMMPN3BgyGWERekbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491744305370:android:1dada4b7bbe867cd8485e3",
+        "android_client_info": {
+          "package_name": "com.shahen.driv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjgtA8EM1Id1JtVcgMMPN3BgyGWERekbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
